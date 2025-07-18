@@ -1,0 +1,1 @@
+# TTRPG Assistant MCP Tool
